@@ -24,7 +24,8 @@
     </div>
 
     <footer class="bg-dark text-white text-center p-3 mt-4">
-        <p>© 2025 Taufik Firduas - Blog Pertama</p>
+        <p>© 2025 Taufik Firdaus - Blog Pertama</p>
     </footer>
 </body>
 </html>
+
